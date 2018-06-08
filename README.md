@@ -44,7 +44,7 @@
 ## Function List of _$$()_
 
 Functions   |       Description       | Example
-------------------------------------------------
+------------|-------------------------|---------
 write()     |Sets the innerText of the Selected Element | $$('#foo').write('hello world!')
 html()      |Sets the innerHTML of the Selected Element | $$('#foo').write('<span>hello world!</span>')
 value()     |Sets the value of the Selected Element can be a String or Number | $$('.bar').value(10)
@@ -58,7 +58,7 @@ border()    |Sets the border of the Element. Takes 3 arguments | $$('div').borde
 background()|Sets the background of the Element. You can use the gradients in CSS | $$('#foo').background("url('foo.png')")
 borderRadius()|Sets the border-radius of the Element | $$('div').borderRadius(30px)
 Extra       |       Description       | Example
------------------------------------------------
+------------|-------------------------|--------
 element     |This is not a function   | $("#foo").element.id
 
 ## $e
