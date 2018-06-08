@@ -3,7 +3,7 @@
 **A Very Small API based-off from jQuery.**
 **(Still in Developement)**
 
-# How To Use
+# Usage
 
 ### $$()
  To call the function use '$$()' and between the parenthesis put the Element.
@@ -89,5 +89,7 @@ element     |This is not a function   | $("#foo").element.id
     $$("#el").element.id = "foo" //You can change the foo to any id you likes
 
 ```
+
+I'm not good at explaining this. This README is a mess
 
 Created by TristanGx
