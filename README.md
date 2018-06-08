@@ -1,6 +1,7 @@
 # minify.js-api
 
-**A Very Small API based off from jQuery.**
+**A Very Small API based-off from jQuery.**
+**(Still in Developement)**
 
 # How To Use
 
@@ -88,4 +89,4 @@ element     |This is not a function   | $("#foo").element.id
 
 ```
 
-Created by Tristan Castillon
+Created by TristanGx
