@@ -102,6 +102,9 @@ function c(d) {
         borderRadius: function (z) {
             e.style.borderRadius = z
         },
+        appendHtml : function (za){
+            e.innerHTML += za
+        },
         element: e
     }
 }
