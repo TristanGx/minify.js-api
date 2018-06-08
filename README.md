@@ -87,3 +87,5 @@ element     |This is not a function   | $("#foo").element.id
     $$("#el").element.id = "foo" //You can change the foo to any id you likes
 
 ```
+
+Created by Tristan Castillon
