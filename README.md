@@ -57,6 +57,7 @@ cssHeight() |Sets the height of the Element in CSS | $$('fieldset').cssHeight("4
 border()    |Sets the border of the Element. Takes 3 arguments | $$('div').border("2px", "solid", "black")
 background()|Sets the background of the Element. You can use the gradients in CSS | $$('#foo').background("url('foo.png')")
 borderRadius()|Sets the border-radius of the Element | $$('div').borderRadius(30px)
+
 Extra       |       Description       | Example
 ------------|-------------------------|--------
 element     |This is not a function   | $("#foo").element.id
