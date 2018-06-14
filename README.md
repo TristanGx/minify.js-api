@@ -3,14 +3,15 @@
 **A Very Small API based-off from jQuery.**
 **(Still in Developement)**
 
-# Usage
+## $$()
 
-### $$()
  To call the function use '$$()' and between the parenthesis put the Element.
  You can use the Element's id,class or Tagname
 
 **Example:**
+
   ```javascript
+
     //To call the function
     $$()
 
@@ -39,8 +40,6 @@
         *createEl()
             *appendTo()
 
-
-
 ## Function List of _$$()_
 
 Functions   |       Description       | Example
@@ -64,9 +63,11 @@ Extra       |       Description       | Example
 element     |This is not a function   | $("#foo").element.id
 
 ## $e
+
  **_$e_** is used to create Elements and append it to a selected element
 
-### Usage
+### Usage of $e
+
 ```javascript
 
     //Just type $e
