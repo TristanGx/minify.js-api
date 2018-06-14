@@ -60,7 +60,7 @@ appendHtml()|Append the String to the innerHTML | $$("#foo").appendHtml("<strong
 
 Extra       |       Description       | Example
 ------------|-------------------------|--------
-element     |This is not a function   | $("#foo").element.id
+element     |This is not a function   | $$("#foo").element.id
 
 ## $e
 

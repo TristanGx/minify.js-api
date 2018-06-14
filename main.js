@@ -132,5 +132,3 @@ function s(t) {
         }
     }
 }
-
-console.log("The API is Loaded and ready to use")
